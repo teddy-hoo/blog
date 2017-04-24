@@ -1,4 +1,8 @@
-# SKELETON OF A WEB FRAMEWORK
+---
+title: SKELETON OF A WEB FRAMEWORK
+date: 2017-04-23 00:41:57
+tags:
+---
 
 ### Main components
 
